@@ -1,0 +1,14 @@
+VIM settings file + plugins list
+
+
+PLUGINS
+
+PATHOGEN - https://github.com/tpope/vim-pathogen 
+DELIMITMATE - https://github.com/Raimondi/delimitMate
+GHCMOD - https://github.com/eagletmt/ghcmod-vim
+HASKELLMODE - https://github.com/lukerandall/haskellmode-vim
+NECO-GHC - https://github.com/ujihisa/neco-ghc
+NEOCOMPLCACHE - https://github.com/Shougo/neocomplcache.vim
+NERD-COMMENTER - https://github.com/scrooloose/nerdcommenter
+SYNTASTIC - https://github.com/scrooloose/syntastic
+VIMPROC - https://github.com/Shougo/vimproc.vim
